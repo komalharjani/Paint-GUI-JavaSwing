@@ -4,7 +4,8 @@ I built a program where users can draw shapes and save them into files, much lik
 ## Getting Started
 In order to get the project running on your local machine, save the files in a folder and specify the path in your command line. And then run the following to compline and run: 
 
-javac Main.java, 
+javac Main.java
+
 java Main.java
 
 ## Deployment
